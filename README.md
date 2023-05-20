@@ -50,11 +50,10 @@ We are continuously working on enhancing the Track Me App and plan to introduce 
 - Enhanced battery optimization for prolonged tracking periods
 
 ## Installation
-
-
+Install the apk file from the given link [app](https://github.com/Biswajeet-23/Github-Search-Api/raw/master/app/src/main/res/APK/github.apk)
 
 ## License
 
-The Location Tracker App is released under the [MIT License](LICENSE). Please see the [License file](LICENSE) for more details.
+The Location Tracker App is released under the [MIT License](LICENSE).
 
 Happy tracking!
