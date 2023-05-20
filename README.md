@@ -10,8 +10,6 @@ This Location Tracker App is a robust and efficient application designed to trac
 
 - **Interval Configuration**: The app allows for easy customization of the tracking interval, ensuring flexibility to meet specific requirements. The default interval is set to 45 minutes, providing a balance between accuracy and battery efficiency.
 
-- **Reliable and Secure**: The Location Tracker App ensures the security and privacy of user data during transmission to the server, employing robust encryption protocols to protect sensitive information.
-
 ## Getting Started
 
 To use the Location Tracker App, follow the steps below:
