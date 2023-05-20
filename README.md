@@ -20,6 +20,22 @@ To use the Location Tracker App, follow the steps below:
 4. Grant the necessary location permissions when prompted.
 5. The app will start tracking and transmitting your location automatically.
 
+## Libraries Used
+
+- **Google Play Services Location - A library provided by Google Play Services that enables accurate and efficient location tracking.
+
+- **Retrofit - A type-safe HTTP client for Android that simplifies the process of sending network requests and handling responses.
+
+- **Gson - A Java library for converting Java objects to JSON and vice versa, used in conjunction with Retrofit for serialization and deserialization of network data.
+
+- **Coroutines - Kotlin's native asynchronous programming framework that simplifies handling long-running tasks, such as network operations, in a non-blocking and efficient manner.
+
+- **Room - An abstraction layer over SQLite that provides an easier way to manage local data storage and database operations.
+
+- **Permissions Dispatcher - A library that simplifies the process of handling runtime permissions on Android, making it easier to request and manage permissions required for location tracking.
+
+- **Material Design Components - A set of UI components and guidelines provided by Google for building visually appealing and consistent Android applications.
+
 ## Compatibility
 
 The Location Tracker App is compatible with Android devices running Android 6.0 and above.
@@ -32,6 +48,10 @@ We are continuously working on enhancing the Track Me App and plan to introduce 
 - Customizable tracking settings, such as interval duration and tracking accuracy
 - Integration with maps and geolocation services
 - Enhanced battery optimization for prolonged tracking periods
+
+## Installation
+
+
 
 ## License
 
