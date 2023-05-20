@@ -50,7 +50,7 @@ We are continuously working on enhancing the Track Me App and plan to introduce 
 - Enhanced battery optimization for prolonged tracking periods
 
 ## Installation
-Install the apk file from the given link [app](https://github.com/Biswajeet-23/Github-Search-Api/raw/master/app/src/main/res/APK/github.apk)
+Install the apk file from the given link [app](https://github.com/Biswajeet-23/Track-Me/raw/master/app/src/main/res/output/track-me.apk)
 
 ## License
 
