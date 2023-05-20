@@ -54,6 +54,6 @@ Install the apk file from the given link [app](https://github.com/Biswajeet-23/T
 
 ## License
 
-The Location Tracker App is released under the [MIT License](LICENSE).
+The Location Tracker App is released under the [MIT License](https://github.com/Biswajeet-23/Track-Me/blob/master/LICENSE).
 
 Happy tracking!
